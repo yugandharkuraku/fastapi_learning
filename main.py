@@ -8,6 +8,6 @@ def root_url():
 
 @app.get('/about')
 def about_page():
-    return {'data':'aboutpage'}
+    return {'data':'about  page'}
 
 
